@@ -15,6 +15,7 @@ public class CROSFilter {
 
     //此处可使用数据库配置，将域名白名单使用，分割用字符串存储
 	String propertyInfo="www.baidu.com,www.wangyi.com";
+	//提交测试
 
 	private static final Logger log = LoggerFactory.getLogger(CROSFilter.class);
 
