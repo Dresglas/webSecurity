@@ -1,4 +1,4 @@
-package com.wuya.websecurity.filter;
+package com.sininenuni.websecurity.filter;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
