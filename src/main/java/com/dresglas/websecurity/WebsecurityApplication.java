@@ -1,4 +1,4 @@
-package com.sininenuni.websecurity;
+package com.dresglas.websecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

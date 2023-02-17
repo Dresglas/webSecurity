@@ -1,4 +1,4 @@
-package com.sininenuni.websecurity.filter;
+package com.dresglas.websecurity.filter;
 
 import javax.servlet.ReadListener;
 import javax.servlet.ServletInputStream;

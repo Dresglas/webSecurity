@@ -1,4 +1,4 @@
-package com.sininenuni.websecurity.filter;
+package com.dresglas.websecurity.filter;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
