@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfigurat
 import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.cache.annotation.EnableCaching;
 
-@ServletComponentScan("com.wuya.websecurity.filter")
+@ServletComponentScan("com.dresglas.websecurity.filter")
 @EnableCaching //开启缓存
 @SpringBootApplication(exclude={DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class})
 public class WebsecurityApplication {
